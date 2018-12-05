@@ -1,0 +1,7 @@
+{
+  "name": "IonicDevOpsPOC",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
